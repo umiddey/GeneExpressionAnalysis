@@ -1,0 +1,3 @@
+# GeneExpressionAnalysis
+
+One of the worst epidemics in the history of mankind is the deadly disease known as cancer. There are several types of cancer and the one that is more commonly heard of these days is leukemia. There are two types of leukemia – acute myeloid leukemia (AML) and acute lymphocytic leukemia (ALL) – and the purpose of this study is to take into account the gene expression data of several people and predict what type of leukemia they have by using three machine learning algorithms, XGBoost, Random Forest Classification and Artificial Neural Networks. The dataset’s dimensionality was reduced using principal component analysis (PCA) before using the algorithms on them. 
